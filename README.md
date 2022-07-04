@@ -20,7 +20,6 @@
 
 ## 📲 Contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/DenisAleksandrovichM)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail&logoColor=0A66C2)](merzlikindenis92@gmail.com)
 
 <!--
 **DenisAleksandrovichM/DenisAleksandrovichM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
